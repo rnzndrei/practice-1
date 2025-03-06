@@ -11,5 +11,6 @@ int main(){
         << "Xyrelle Dominique" << endl;
 
     cout << endl << "Introduction of Members:" << endl;
+    cout << "Amaya Balion" << endl;
     // Comment
 }
